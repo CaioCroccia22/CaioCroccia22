@@ -10,9 +10,8 @@
 
 <div>
   <a href="https://github.com/caiocroccia22">
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img  margin="10px" height="100cm" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&theme=Merko" />
-  <img  margin="10px" height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count-16&theme=Merko"/>
+  <img  margin="30px" height="100cm" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&theme=Merko" />
+  <img  margin="30px" height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count-16&theme=Merko"/>
 </div>
 
 ##
