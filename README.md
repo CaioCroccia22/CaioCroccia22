@@ -1,7 +1,6 @@
 
   <h1 align="center" padding="20px"> Bem vindo, ao meu GitHub</h1>
-  <h2 align="center" padding="20px">Me chamo Caio Croccia</h2>
-  <h3 align="center" padding="20px"> Studing to get a Java Certificate OCAJP </h3>
+  <p align="center" padding="20px">My name is Caio Croccia, now I´m studing to get a Java Certificate OCAJP </p>
 
 ##
 
