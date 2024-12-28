@@ -1,12 +1,12 @@
 
-  <h1 align="center"> Bem vindo, ao meu GitHub</h1>
-  <h2>Me chamo Caio Croccia</h2>
-  <h3> Studing to get a Java Certificate OCAJP </h3>
+  <h1 align="center" padding="20px"> Bem vindo, ao meu GitHub</h1>
+  <h2 align="center" padding="20px">Me chamo Caio Croccia</h2>
+  <h3 align="center" padding="20px"> Studing to get a Java Certificate OCAJP </h3>
 
 ##
 
 ## Languages:
-<img align="center" alt="languages-icons" height="30" width="40" src="https://skillicons.dev/icons?i=java,python,javascript" style="max-width: 100%;">
+<img align="center" alt="languages-icons" height="100" width="100" src="https://skillicons.dev/icons?i=java,python,javascript" style="max-width: 100%;">
 
 - 🔭 Today I work with Full Stack development
 - 🌱 Now I’m studying mostly Python, futher more I develop some applications with Back-end and Front-end Frameworks
