@@ -1,9 +1,8 @@
 
   <h1 align="center" padding="20px"> Bem vindo, ao meu GitHub</h1>
   
-  <p align="center" padding="20px">My name is Caio Croccia, now I´m studing to get a Java Certificate OCAJP </p>
+  <p align="center">My name is Caio Croccia, now I´m studing to get a Java Certificate OCAJP </p><br><br>
 
-##
 
 ## Languages:
 <img align="center" alt="languages-icons" height="100" width="100" src="https://skillicons.dev/icons?i=java,python,javascript" style="max-width: 100%;">
