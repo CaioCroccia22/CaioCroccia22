@@ -1,28 +1,30 @@
 
-  <h1 align="center" padding="20px"> Bem vindo, ao meu GitHub</h1>
+  <h1 align="center" padding="20px"> Welcome, to my GitHub</h1>
+  <p align="center">📚 My name is Caio Croccia, now I´m studing to get a Java Certificate OCAJP 📚 </p><br><br>
+
+
+## 🛠️ Languages:
+<div>
+  <img alt="languages-icons" height="100" src="https://skillicons.dev/icons?i=java,python,javascript" />
+</div>
+
+## ⚙️ Technologies:
+<div>
+  <img style="margin: 10px;" height="150" src="https://skillicons.dev/icons?i=git,github,docker,gulp,vim,html,jquery,postman,sass" />
+</div>
+
+## 🧑‍💻 About Me:
+- 🔭 I’m currently working as a **Full Stack Developer**.
+- 🌱 I’m focusing on learning **Python** and developing applications using **Back-end** and **Front-end Frameworks**.
+- 💬 Feel free to reach out via email: [caiocroccia22@gmail.com](mailto:caiocroccia22@gmail.com).
   
-  <p align="center">My name is Caio Croccia, now I´m studing to get a Java Certificate OCAJP </p><br><br>
+<br></br>
 
-
-## Languages:
-<img align="center" alt="languages-icons" height="100" width="100" src="https://skillicons.dev/icons?i=java,python,javascript" style="max-width: 100%;">
-
-- 🔭 Today I work with Full Stack development
-- 🌱 Now I’m studying mostly Python, futher more I develop some applications with Back-end and Front-end Frameworks
-- 💬 You can contact me through my E-mail account: caiocroccia22@gmail.com
-
-<div>
+<div align="center" style="margin: 10px;" >
   <a href="https://github.com/caiocroccia22">
-  <img  margin="30px" height="100cm" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&theme=Merko" />
-  <img  margin="30px" height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count-16&theme=Merko"/>
+    <img style="margin: 20px;" height="150" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&show_icons=true&theme=merko" alt="GitHub Stats" />
+    <img style="margin: 20px;"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
+  </a>
 </div>
 
-##
-<div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-</div>
 
-##
