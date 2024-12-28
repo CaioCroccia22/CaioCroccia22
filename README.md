@@ -1,9 +1,13 @@
 
-  <h1> Caio Croccia GitHub</h1>
+  <h1 align="center"> Bem vindo, ao meu GitHub</h1>
+  <h2>Me chamo Caio Croccia</h2>
+  <h3> Studing to get a Java Certificate OCAJP </h3>
 
 ##
 
-  <p>At the momeny I´m studing to get a Java Certificate OCAJP</p>
+## Languages:
+<img align="center" alt="languages-icons" height="30" width="40" src="https://skillicons.dev/icons?i=java,python,javascript" style="max-width: 100%;">
+
 - 🔭 Today I work with Full Stack development
 - 🌱 Now I’m studying mostly Python, futher more I develop some applications with Back-end and Front-end Frameworks
 - 💬 You can contact me through my E-mail account: caiocroccia22@gmail.com
