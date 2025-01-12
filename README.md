@@ -20,11 +20,17 @@
   
 <br></br>
 
-<div align="center" style="margin: 10px;" >
-  <a href="https://github.com/caiocroccia22">
-    <img style="margin: 20px;" height="150" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&show_icons=true&theme=merko" alt="GitHub Stats" />
-    <img style="margin: 20px;"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
-  </a>
-</div>
-
-
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/caiocroccia22">
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&show_icons=true&theme=merko" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/caiocroccia22">
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
