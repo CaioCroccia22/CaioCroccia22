@@ -5,12 +5,12 @@
 
 ## 🛠️ Languages:
 <div>
-  <img alt="languages-icons" height="100" src="https://skillicons.dev/icons?i=java,python,javascript" />
+  <img alt="languages-icons" height="50" src="https://skillicons.dev/icons?i=java,python,javascript" />
 </div>
 
 ## ⚙️ Technologies:
 <div>
-  <img style="margin: 10px;" height="150" src="https://skillicons.dev/icons?i=git,github,docker,gulp,vim,html,jquery,postman,sass" />
+  <img style="margin: 10px;" height="40" src="https://skillicons.dev/icons?i=git,github,docker,gulp,vim,html,jquery,postman,sass" />
 </div>
 
 ## 🧑‍💻 About Me:
@@ -20,17 +20,12 @@
   
 <br></br>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/caiocroccia22">
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&show_icons=true&theme=merko" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/caiocroccia22">
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/caiocroccia22">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&show_icons=true&theme=merko" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/caiocroccia22">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
+  </a>
+</div>
