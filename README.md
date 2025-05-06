@@ -20,4 +20,12 @@
   
 <br></br>
 
-
+<div align="center">
+  <a href="https://github.com/caiocroccia22">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=caiocroccia22&show_icons=true&theme=merko" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/caiocroccia22">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocroccia22&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
+  </a>
+</div>
