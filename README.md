@@ -5,7 +5,7 @@
 
 ## 🛠️ Languages:
 <div>
-  <img alt="languages-icons" height="50" src="https://skillicons.dev/icons?i=java,python,javascript" />
+  <img alt="languages-icons" height="50" src="https://skillicons.dev/icons?i=java,maven,rabbitmq,spring" />
 </div>
 
 ## ⚙️ Technologies:
